@@ -1,0 +1,9 @@
+{
+  "name": "Archive by year",
+  "version": "1.0.0",
+  "licence": "MIT",
+  "kind": "build",
+  "description": "Groups the post list under a heading for each year. Needs dates shown in the list; uses the blog-webcli-v1 markup.",
+  "hooks": ["index:html"],
+  "capabilities": []
+}

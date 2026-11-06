@@ -1,0 +1,9 @@
+{
+  "name": "Table of contents",
+  "version": "1.0.0",
+  "licence": "MIT",
+  "kind": "build",
+  "description": "Adds a contents list of the h2 and h3 headings to a post that has three or more.",
+  "hooks": ["post:html"],
+  "capabilities": []
+}

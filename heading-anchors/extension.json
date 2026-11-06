@@ -1,0 +1,9 @@
+{
+  "name": "Heading anchors",
+  "version": "1.0.0",
+  "licence": "MIT",
+  "kind": "build",
+  "description": "Gives every heading a stable id and a # link, so a section can be linked to.",
+  "hooks": ["post:html"],
+  "capabilities": []
+}

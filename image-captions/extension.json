@@ -1,0 +1,9 @@
+{
+  "name": "Image captions",
+  "version": "1.0.0",
+  "licence": "MIT",
+  "kind": "build",
+  "description": "Shows an image's alt text as a visible caption (a figure with a figcaption). Uses the blog-webcli-v1 markup.",
+  "hooks": ["post:html"],
+  "capabilities": []
+}

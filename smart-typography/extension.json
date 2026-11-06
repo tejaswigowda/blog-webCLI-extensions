@@ -1,0 +1,9 @@
+{
+  "name": "Smart typography",
+  "version": "1.0.0",
+  "licence": "MIT",
+  "kind": "build",
+  "description": "Curly quotes, dashes and ellipses in the rendered post. Code, links and URLs are left alone; the markdown source is never changed.",
+  "hooks": ["post:markdown"],
+  "capabilities": []
+}
